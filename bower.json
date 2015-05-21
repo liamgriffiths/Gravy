@@ -7,6 +7,11 @@
   "moduleType": [
     "amd"
   ],
+  "main": [
+    "gravy.js",
+    "gravy.min.js",
+    "gravy.umd.js"
+  ],
   "private": true,
   "ignore": [
     "**/.*",
